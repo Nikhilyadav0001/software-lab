@@ -1,1 +1,1 @@
-hellow nikhil bro
+print("hello world")
